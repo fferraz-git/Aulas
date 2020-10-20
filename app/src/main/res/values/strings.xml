@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Aulas</string>
+    <string name="app_name">1st App</string>
+    <string name="greeter">Welcome</string>
+    <string name="block1">Block 1</string>
+    <string name="block2">Block 2</string>
+    <string name="block3">Block 3</string>
+    <string name="block4">Block 4</string>
+    <string name="insert1">Insert Name</string>
+    <string name="btt1">Set Name</string>
+    <string name="btt2">Toast Name</string>
+    <string name="btt3">Next Activity</string>
 </resources>

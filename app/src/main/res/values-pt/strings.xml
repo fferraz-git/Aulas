@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1ª App</string>
+    <string name="greeter">Bem-vindo</string>
+    <string name="block1">Bloco 1</string>
+    <string name="block2">Bloco 2</string>
+    <string name="block3">Bloco 3</string>
+    <string name="block4">Bloco 4</string>
+    <string name="insert1">Insira Nome</string>
+    <string name="btt1">Inserir Nome</string>
+    <string name="btt2">Mostrar Nome</string>
+    <string name="btt3">Próxima Atividade</string>
+</resources>
