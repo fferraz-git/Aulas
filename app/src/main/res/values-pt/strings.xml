@@ -10,4 +10,6 @@
     <string name="btt1">Inserir Nome</string>
     <string name="btt2">Mostrar Nome</string>
     <string name="btt3">Próxima Atividade</string>
+    <string name="preference_file_key">file1</string>
+    <string name="sound">sound</string>
 </resources>

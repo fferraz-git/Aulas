@@ -9,4 +9,6 @@
     <string name="btt1">Set Name</string>
     <string name="btt2">Toast Name</string>
     <string name="btt3">Next Activity</string>
+    <string name="preference_file_key">file1</string>
+    <string name="sound">sound</string>
 </resources>
